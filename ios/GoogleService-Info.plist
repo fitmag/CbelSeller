@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>944732610067-27k6b9lm6qss42eedo54k71ket0edsn6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944732610067-27k6b9lm6qss42eedo54k71ket0edsn6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>944732610067-2nkrg26hb7aep1oof70nhpeide54q7vo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUsjfOZoqd7nO9Q_bV0SR5tgeP1qT6YHk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944732610067</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cbel.cbel</string>
+	<key>PROJECT_ID</key>
+	<string>cbel-b7ffb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cbel-b7ffb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944732610067:ios:a6f6fb88642a136fc769e6</string>
+	<key>DATABASE_URL</key>
+	<string>https://cbel-b7ffb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
